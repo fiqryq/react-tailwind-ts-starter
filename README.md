@@ -2,6 +2,6 @@
 
 ```
 React Version 17
-Tailwind Version 3.0
+Tailwind Version 3.1
 Tailwind Prettier
 ```
